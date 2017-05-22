@@ -1,8 +1,8 @@
 <?php
 
-namespace Adriandmitroca\LaravelExceptionMonitor;
+namespace Famdirksen\LaravelExceptionMonitor;
 
-use Adriandmitroca\LaravelExceptionMonitor\ExceptionMonitor;
+use Famdirksen\LaravelExceptionMonitor\ExceptionMonitor;
 use Illuminate\Support\ServiceProvider;
 
 class ExceptionMonitorServiceProvider extends ServiceProvider
