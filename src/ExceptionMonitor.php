@@ -1,6 +1,6 @@
 <?php
 
-namespace Adriandmitroca\LaravelExceptionMonitor;
+namespace Famdirksen\LaravelExceptionMonitor;
 
 class ExceptionMonitor
 {
@@ -48,7 +48,7 @@ class ExceptionMonitor
      */
     protected function getDriverInstance($driver)
     {
-        $class = '\Adriandmitroca\LaravelExceptionMonitor\Drivers\\' . ucfirst($driver) . 'Driver';
+        $class = '\Famdirksen\LaravelExceptionMonitor\Drivers\\' . ucfirst($driver) . 'Driver';
 
         return app($class);
     }
