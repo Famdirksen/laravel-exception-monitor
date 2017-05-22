@@ -1,6 +1,6 @@
 <?php
 
-namespace Adriandmitroca\LaravelExceptionMonitor;
+namespace Famdirksen\LaravelExceptionMonitor;
 
 use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
