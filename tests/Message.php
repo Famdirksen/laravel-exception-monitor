@@ -1,6 +1,6 @@
 <?php
 
-namespace Adriandmitroca\LaravelExceptionMonitor\Tests;
+namespace Famdirksen\LaravelExceptionMonitor\Tests;
 
 class Message
 {
