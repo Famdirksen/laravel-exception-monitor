@@ -1,8 +1,8 @@
 <?php
 
-namespace Adriandmitroca\LaravelExceptionMonitor\Tests;
+namespace Famdirksen\LaravelExceptionMonitor\Tests;
 
-use Adriandmitroca\LaravelExceptionMonitor\Drivers\MailDriver;
+use Famdirksen\LaravelExceptionMonitor\Drivers\MailDriver;
 
 class MailDriverTest extends TestCase
 {
