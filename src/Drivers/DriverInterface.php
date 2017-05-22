@@ -1,6 +1,6 @@
 <?php
 
-namespace Adriandmitroca\LaravelExceptionMonitor\Drivers;
+namespace Famdirksen\LaravelExceptionMonitor\Drivers;
 
 interface DriverInterface
 {
