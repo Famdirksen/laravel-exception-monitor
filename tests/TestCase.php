@@ -1,8 +1,8 @@
 <?php
 
-namespace Adriandmitroca\LaravelExceptionMonitor\Tests;
+namespace Famdirksen\LaravelExceptionMonitor\Tests;
 
-use Adriandmitroca\LaravelExceptionMonitor\ExceptionMonitorServiceProvider;
+use Famdirksen\LaravelExceptionMonitor\ExceptionMonitorServiceProvider;
 
 class TestCase extends \Orchestra\Testbench\TestCase
 {
