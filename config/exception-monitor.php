@@ -35,7 +35,7 @@ return [
     'mail'         => [
         'from' => 'sender@example.com',
         'to'   => 'recipient@example.com',
-        'view' => 'mails/exception-monitor'
+        'view' => 'laravel-exception-monitor::email'
     ],
 
     /*
