@@ -1,5 +1,5 @@
 {
-    "name": "Famdirksen/laravel-exception-monitor",
+    "name": "famdirksen/laravel-exception-monitor",
     "description": "Little Laravel package to notify you about exceptions in your application.",
     "keywords": ["famdirksen", "laravel", "exception monitor"],
     "license": "MIT",
