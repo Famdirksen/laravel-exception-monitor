@@ -1,16 +1,16 @@
 <?php
 
-namespace Adriandmitroca\LaravelExceptionMonitor\Tests;
+namespace Famdirksen\LaravelExceptionMonitor\Tests;
 
-use Adriandmitroca\LaravelExceptionMonitor\ExceptionMonitor;
+use Famdirksen\LaravelExceptionMonitor\ExceptionMonitor;
 
 class ExceptionMonitorTest extends TestCase
 {
 
-    /** @var \Adriandmitroca\LaravelExceptionMonitor\Tests\InMemoryMailer */
+    /** @var \Famdirksen\LaravelExceptionMonitor\Tests\InMemoryMailer */
     protected $mailer;
 
-    /** @var \Adriandmitroca\LaravelExceptionMonitor\ExceptionMonitor */
+    /** @var \Famdirksen\LaravelExceptionMonitor\ExceptionMonitor */
     protected $monitor;
 
 
