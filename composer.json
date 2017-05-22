@@ -1,12 +1,12 @@
 {
-    "name": "adriandmitroca/laravel-exception-monitor",
+    "name": "Famdirksen/laravel-exception-monitor",
     "description": "Little Laravel package to notify you about exceptions in your application.",
-    "keywords": ["adriandmitroca", "laravel", "exception monitor"],
+    "keywords": ["famdirksen", "laravel", "exception monitor"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Adrian Dmitroca",
-            "email": "dmitroca.adrian@gmail.com"
+            "name": "Robin Dirksen",
+            "email": "robin@famdirksen.nl"
         }
     ],
     "require": {
@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Adriandmitroca\\LaravelExceptionMonitor\\": "src/"
+            "Famdirksen\\LaravelExceptionMonitor\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Adriandmitroca\\LaravelExceptionMonitor\\Tests\\": "tests/"
+            "Famdirksen\\LaravelExceptionMonitor\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "stable",
